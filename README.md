@@ -33,19 +33,20 @@ Please feel free to clone projects and raise issues if you think something could
 <br/>
 Happy Coding!!
 
+**Connect with me:**
 
+<a href="https://www.linkedin.com/in/blurred-machine">
+  <img align="left" alt="Paras Varshney | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@blurred_machine">
+  <img align="left" alt="Paras Varshney | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.kaggle.com/blurredmachine">
+  <img align="left" alt="Paras Varshney | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 <a href="https://twitter.com/blurred_machine">
   <img align="left" alt="Paras Varshney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/blurred-machine">
-  <img align="left" alt="Paras's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@blurred_machine">
-  <img align="left" alt="Paras's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.kaggle.com/blurredmachine">
-  <img align="left" alt="Paras's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
 <a href="https://www.instagram.com/blurred_machine">
-  <img align="left" alt="Paras's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Paras Varshney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>

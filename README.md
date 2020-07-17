@@ -30,7 +30,6 @@ Besides programming, I enjoy reading and travelling. Know more about me: <a href
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=blurred-machine&show_icons=true" alt="blurred-machine"/>
 </p>
-<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/blurred-machine">	
@@ -52,8 +51,10 @@ Besides programming, I enjoy reading and travelling. Know more about me: <a href
 <br>
 <br>
 
+<p align="center">
 You have finally discovered my Github profile, so let's get connected!
 <br/>
 Please feel free to clone projects and raise issues if you think something could be better.
 <br/>
-Happy Coding!
+Happy Coding!!
+</p>  

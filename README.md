@@ -9,10 +9,10 @@ I am an undergraduate from IIITK, India, who is passionate about Data and with t
 <br/>
 Data Scientist @ Illumnus ● Kaggler ● Author @Towards Data Science ● IIITian
 <br/>
-Besides programming, I enjoy reading and travelling. Know more about me: <a href="https://parasvarshney.ml">Here</a>
+Besides programming, I enjoy reading, cooking and travelling.
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600px" />
+<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   
 **A bit about me:**
 

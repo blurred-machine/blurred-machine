@@ -19,40 +19,34 @@ Besides programming, I enjoy reading and travelling. Know more about me: <a href
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Data Scientist @ Illumnus**
-
 - 👯 I’m looking to collaborate on **ML and AI Projects**
-
 - 🤔 I’m looking for help with **learning anything new!**
-
 - 👨‍💻 Anything about me is available at [https://parasvarshney.ml](https://parasvarshney.ml)
-
 - 📝 I regulary write articles on [https://medium.com/@blurred_machine](https://medium.com/@blurred_machine)
-
 - 💬 Ask me about **anything you feel like!**
-
 - 📫 How to reach me **blurredmachine@gmail.com**
-
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=blurred-machine&show_icons=true" alt="blurred-machine"/>
-
+</p>
 <br>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/blurred-machine">	
-  <img align="left" alt="Paras Varshney | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
+  <img align="center" alt="Paras Varshney | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>	
 <a href="https://medium.com/@blurred_machine">	
-  <img align="left" alt="Paras Varshney | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
+  <img align="center" alt="Paras Varshney | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
 </a>	
 <a href="https://www.kaggle.com/blurredmachine">	
-  <img align="left" alt="Paras Varshney | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
+  <img align="center" alt="Paras Varshney | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
 </a>	
 <a href="https://twitter.com/blurred_machine">	
-  <img align="left" alt="Paras Varshney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
+  <img align="center" alt="Paras Varshney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
 </a>	
 <a href="https://www.instagram.com/blurred_machine">	
-  <img align="left" alt="Paras Varshney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
+  <img align="center" alt="Paras Varshney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
 </a>
 </p>
 <br>

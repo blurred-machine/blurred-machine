@@ -8,7 +8,8 @@
 I am an undergraduate from IIITK, India, who is passionate about Data and with the art of developing something useful out of it 🚀.
 <br/>
 Besides programming, I enjoy reading, cooking and travelling.
-
+<br>
+<br>
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   

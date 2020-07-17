@@ -55,6 +55,8 @@ Besides programming, I enjoy reading and travelling. Know more about me: <a href
   <img align="left" alt="Paras Varshney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
 </a>
 </p>
+<br>
+<br>
 
 You have finally discovered my Github profile, so let's get connected!
 <br/>

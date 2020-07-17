@@ -34,13 +34,28 @@ Besides programming, I enjoy reading and travelling. Know more about me: <a href
 
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=blurred-machine&show_icons=true" alt="blurred-machine"/>
+</p>
+
 <br>
 
 <p align="center">
-<a href="https://twitter.com/blurred_machine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="blurred_machine" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/blurred-machine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blurred-machine" height="20" width="20" /></a>
-<a href="https://kaggle.com/blurredmachine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="blurredmachine" height="20" width="20" /></a>
-<a href="https://instagram.com/blurred_machine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="blurred_machine" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/blurred-machine">	
+  <img align="left" alt="Paras Varshney | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
+</a>	
+<a href="https://medium.com/@blurred_machine">	
+  <img align="left" alt="Paras Varshney | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
+</a>	
+<a href="https://www.kaggle.com/blurredmachine">	
+  <img align="left" alt="Paras Varshney | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
+</a>	
+<a href="https://twitter.com/blurred_machine">	
+  <img align="left" alt="Paras Varshney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
+</a>	
+<a href="https://www.instagram.com/blurred_machine">	
+  <img align="left" alt="Paras Varshney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
+</a>
 </p>
 
 You have finally discovered my Github profile, so let's get connected!

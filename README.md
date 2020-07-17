@@ -1,4 +1,8 @@
-# [Paras Varshney](https://parasvarshney.ml) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+<h1 align="center">Hi 👋, I'm [Paras Varshney](https://parasvarshney.ml)</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+<h3 align="center">Data Scientist @ Illumnus ● Kaggle Competitor ● Author @Towards Data Science ● IIITian</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
+
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 

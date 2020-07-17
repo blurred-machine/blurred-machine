@@ -12,7 +12,7 @@ Data Scientist @ Illumnus ● Kaggler ● Author @Towards Data Science ● IIITi
 Besides programming, I enjoy reading and travelling. Know more about me: <a href="https://parasvarshney.ml">Here</a>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600px" />
   
 **A bit about me:**
 

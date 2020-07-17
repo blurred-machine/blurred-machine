@@ -9,17 +9,15 @@ I am an undergraduate from IIITK, India, who is passionate about Data and with t
 <br/>
 Besides programming, I enjoy reading, cooking and travelling.
 <br>
-<br>
-<br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Data Scientist @ Illumnus**
-- 👯 I’m looking to collaborate on **ML and AI Projects**
+- 👯 I’m looking to collaborate on **DL and NLP Projects**
 - 🤔 I’m looking for help with **learning anything new!**
-- 👨‍💻 Anything about me is available at [parasvarshney.ml](https://parasvarshney.ml)
-- 📝 I regulary write articles on [blurred_machine](https://medium.com/@blurred_machine)
+- 👨‍💻 Anything about me is available at **[parasvarshney.ml](https://parasvarshney.ml)**
+- 📝 I regulary write articles at **[blurred_machine](https://medium.com/@blurred_machine)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **blurredmachine@gmail.com**
 - ⚡ Fun fact **I play Table Tennis and love cubing!**

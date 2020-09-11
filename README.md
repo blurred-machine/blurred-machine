@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Varshney</h1>
-<h3 align="center">Data Scientist @ Illumnus ● Kaggle Competitor ● Author @Towards Data Science ● IIITian</h3>
+<h3 align="center">Data Scientist @ IUDX, IISc ● Kaggle Competitor ● Author @Towards Data Science ● IIITian</h3>
 
 <br />
 <br />
@@ -13,7 +13,7 @@ Besides programming, I enjoy reading, cooking and travelling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ Illumnus**
+- 🔭 I’m currently working as a **Data Scientist @ IUDX, IISc**
 - 👯 I’m looking to collaborate on **DL and NLP Projects**
 - 🤔 I’m looking for help with **learning anything new!**
 - 👨‍💻 Anything about me is available at **[parasvarshney.ml](https://parasvarshney.ml)**

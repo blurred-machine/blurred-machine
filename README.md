@@ -14,7 +14,7 @@ Besides programming, I enjoy reading, cooking and travelling.
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Data Scientist @ IUDX, IISc**
-- 👯 I’m looking to collaborate on **DL and NLP Projects**
+- 👯 I’m looking to collaborate on **AI Products**
 - 🤔 I’m looking for help with **learning anything new!**
 - 👨‍💻 Anything about me is available at **[parasvarshney.ml](https://parasvarshney.ml)**
 - 📝 I regulary write articles at **[blurred_machine](https://medium.com/@blurred_machine)**

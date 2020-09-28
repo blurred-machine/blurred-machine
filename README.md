@@ -9,7 +9,7 @@ I am an undergraduate from IIITK, India, who is passionate about Data and with t
 <br/>
 Besides programming, I enjoy reading, cooking and travelling.
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width="400px" />
   
 **A bit about me:**
 

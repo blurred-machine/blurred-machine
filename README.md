@@ -17,7 +17,7 @@ Besides programming, I enjoy reading, cooking and travelling.
 - 👯 I’m looking to collaborate on **AI Products**
 - 🤔 I’m looking for help with **learning anything new!**
 - 👨‍💻 Anything about me is available at **[parasvarshney.ml](https://parasvarshney.ml)**
-- 📝 I regulary write articles at **[blurred_machine](https://medium.com/@blurred_machine)**
+- 📝 I regularly write articles at **[blurred_machine](https://medium.com/@blurred_machine)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **blurredmachine@gmail.com**
 - ⚡ Fun fact **I play Table Tennis and love cubing!**

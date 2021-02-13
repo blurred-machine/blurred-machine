@@ -42,11 +42,7 @@ Besides programming, I enjoy reading, cooking and travelling.
 </a>	
 <a href="https://www.instagram.com/blurred_machine">	
   <img align="center" alt="Paras Varshney | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
-</a>
-<a href="https://sourcerer.io/blurred-machine">
-  <img align="center" alt="Paras Varshney | Sourcerer" width="25px" height="25" src="https://sourcerer.io/icons/logo-sharing.svg">
-</a>
-  
+</a>  
 </p>
 <br>
 

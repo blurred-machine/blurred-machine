@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Varshney</h1>
-<h3 align="center">Data Scientist @ IUDX, IISc ● Kaggle Competitor ● Author @Towards Data Science ● IIITian</h3>
+<h3 align="center">Data Scientist @ LogicAI ● Kaggle Master ● Author @Towards Data Science ● IIITian</h3>
 
 <br />
 <br />

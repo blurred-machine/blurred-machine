@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
 I am an undergraduate from IIIT, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
 <br/>
-Besides programming, I enjoy active sports, listening podcasts/audiobooks and travelling.
+Besides programming, I enjoy active sports, listening audiobooks and travelling.
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width="400px" />
   

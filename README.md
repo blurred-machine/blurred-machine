@@ -7,16 +7,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
 I am an undergraduate from IIIT, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
 <br/>
-Besides programming, I enjoy reading, cooking and travelling.
+Besides programming, I enjoy active sports, listening podcasts/audiobooks and travelling.
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width="400px" />
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ LogicAI, Poland**
+- 🔭 I’m currently working as a **Data Scientist @ LogicAI.**
 - 👯 I’m looking to collaborate on **Data Science Projects**
 - 🤔 I’m looking for help with **learning new stuff!**
-- 👨‍💻 Anything about me is available at **[https://blurred-machine.github.io/](https://blurred-machine.github.io/)**
+- 👨‍💻 Anything about me is available at **[blurred-machine](https://blurred-machine.github.io/)**
 - 📝 I write articles at **[blurred_machine](https://medium.com/@blurred-machine)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **blurredmachine@gmail.com**

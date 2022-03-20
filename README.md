@@ -5,7 +5,7 @@
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
-I am an undergraduate from IIITK, India, who is passionate about Data and with the art of developing something useful out of it 🚀.
+I am an undergraduate from IIIT, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
 <br/>
 Besides programming, I enjoy reading, cooking and travelling.
 <br>
@@ -13,11 +13,11 @@ Besides programming, I enjoy reading, cooking and travelling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ IUDX, IISc**
-- 👯 I’m looking to collaborate on **AI Products**
-- 🤔 I’m looking for help with **learning anything new!**
-- 👨‍💻 Anything about me is available at **[parasvarshney.ml](https://parasvarshney.ml)**
-- 📝 I regularly write articles at **[blurred_machine](https://blurred-machine.medium.com)**
+- 🔭 I’m currently working as a **Data Scientist @ LogicAI, Poland**
+- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🤔 I’m looking for help with **learning new stuff!**
+- 👨‍💻 Anything about me is available at **[https://blurred-machine.github.io/](https://blurred-machine.github.io/)**
+- 📝 I write articles at **[blurred_machine](https://medium.com/@blurred-machine)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **blurredmachine@gmail.com**
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
@@ -31,7 +31,7 @@ Besides programming, I enjoy reading, cooking and travelling.
 <a href="https://www.linkedin.com/in/blurred-machine">	
   <img align="center" alt="Paras Varshney | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>	
-<a href="https://medium.com/@blurred_machine">	
+<a href="https://medium.com/@blurred-machine">	
   <img align="center" alt="Paras Varshney | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
 </a>	
 <a href="https://www.kaggle.com/blurredmachine">	

@@ -13,13 +13,13 @@ Besides programming, I enjoy active sports, listening audiobooks and travelling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ LogicAI.**
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🔭 I’m currently working as a **Data Scientist @ LogicAI**.
+- 👯 I’m looking to collaborate on **Data Science Projects**.
 - 🤔 I’m looking for help with **learning new stuff!**
-- 👨‍💻 Anything about me is available at **[blurred-machine](https://blurred-machine.github.io/)**
-- 📝 I write articles at **[blurred_machine](https://medium.com/@blurred-machine)**
+- 👨‍💻 Anything about me is available at **[my website](https://blurred-machine.github.io/)**.
+- 📝 I write articles at **[my medium](https://medium.com/@blurred-machine)**.
 - 💬 Ask me about **anything you feel like!**
-- 📫 How to reach me **blurredmachine@gmail.com**
+- 📫 Reach out to me at **blurredmachine@gmail.com**
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
 
 <br>

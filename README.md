@@ -13,7 +13,7 @@ Besides programming, I enjoy active sports, listening audiobooks and travelling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ LogicAI**.
+- 🔭 I’m currently working as a **Student Volunteer @ KaggleDays**.
 - 👯 I’m looking to collaborate on **Data Science Projects**.
 - 🤔 I’m looking for help with **learning new stuff!**
 - 👨‍💻 Anything about me is available at **[my website](https://blurred-machine.github.io/)**.

@@ -47,6 +47,13 @@ Besides programming, I enjoy active sports, listening audiobooks and travelling.
 <br>
 
 <p align="center">
+    <img align="center" alt="Paras Varshney | Competitions" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/blurredmachine/competition/light" />	
+    <img align="center" alt="Paras Varshney | Dataset" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/blurredmachine/dataset/light" />	
+    <img align="center" alt="Paras Varshney | Notebook" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/blurredmachine/notebook/light" />	
+    <img align="center" alt="Paras Varshney | Discussion" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/blurredmachine/discussion/light" />	
+</p>
+
+<p align="center">
 You have finally discovered my Github profile, so let's get connected!
 <br/>
 Please feel free to clone projects and raise issues if you think something could be better.

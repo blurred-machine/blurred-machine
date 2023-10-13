@@ -23,9 +23,9 @@ Besides programming, I enjoy active sports, listening audiobooks and travelling.
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=blurred-machine&show_icons=true" alt="blurred-machine"/>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/blurred-machine">	

@@ -5,7 +5,7 @@
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
-I am an undergraduate from IIIT, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
+I am a Masters student at Northeastern University in Boston, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
 <br/>
 Besides programming, I enjoy active sports, listening audiobooks and travelling.
 <br>

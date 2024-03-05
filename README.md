@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Varshney</h1>
-<h3 align="center">Ex-Data Scientist @ LogicAI, IIISc. Bangalore ● Kaggle Master ● Author @Towards Data Science <br>Northeastern University</h3>
+<h3 align="center">Ex-Data Scientist @ LogicAI, IIISc. ● Kaggle Master ● ZbyHP Global Data Science Amabssador ● Author @Towards Data Science <br>Northeastern, Boston ● IIITK</h3>
 
 <br />
 <br />

@@ -2,8 +2,6 @@
 <h3 align="center">Ex-Data Scientist @ LogicAI, IIISc. ● Kaggle Master ● ZbyHP Global Data Science Amabssador ● Author @Towards Data Science <br>Northeastern, Boston ● IIITK</h3>
 
 <br />
-<br />
-<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine&label=Profile%20views&color=0e75b6&style=flat" alt="blurred-machine" /> </p>
 

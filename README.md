@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine&label=Profile%20views&color=0e75b6&style=flat" alt="blurred-machine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blurred-machine" alt="blurred-machine" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blurred-machine&title=MultiLanguage, Stars,Followers" alt="blurred-machine" /></a> </p>
 
 - 🔭 I’m currently working on **Formula 1 Driver' Mind Wandering Assessment with Phisilogical Signal using Transformers**
 - 👯 I’m looking to collaborate on **Kaggle Competitions**

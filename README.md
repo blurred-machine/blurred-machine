@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paras Varshney</h1>
-<h3 align="center">Ex-Data Scientist @ LogicAI, IIISc. ● Kaggle Master ● ZbyHP Global Data Science Amabssador ● Author @Towards Data Science <br>Northeastern, Boston ● IIITK</h3>
+<h1 align="center">I'm Paras Varshney</h1>
+<h3 align="center">Data Scientist at LogicAI ● Kaggle Master ● ZbyHP Global Data Science Amabssador ● Speaker at NVIDIA GTC AI Conference'21 and ODSC West'22 ● Masters at Northeastern, Boston
 
 <br />
 
@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blurred-machine&rank=SECRET,S,AAA,AA" alt="blurred-machine" /></a> </p>
 
 - 🔭 I’m currently working on **Formula 1 Driver' Mind Wandering Assessment with Phisilogical Signal using Transformers**
+- 🔭 My second Research is on **Ocean Acoustic Sound Engineering for underwater mammals clustering, localization and trajectory planning**
 - 👯 I’m looking to collaborate on **Kaggle Competitions**
 - 📝 I regularly write articles on [https://medium.com/@blurred-machine](https://medium.com/@blurred-machine)
 - 💬 Ask me about **anyting regarding ML/AI/Data Science**

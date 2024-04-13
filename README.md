@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/blurred-machine" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://medium.com/@blurred-machine" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a>
 <a href="https://www.kaggle.com/blurredmachine" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-<a href="https://www.kaggle.com/blurredmachine" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://www.instagram.com/_parasvarshney" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://twitter.com/blurred_machine" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 

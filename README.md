@@ -1,5 +1,5 @@
 <h1 align="center">I'm Paras Varshney</h1>
-<h3 align="center">Data Scientist at LogicAI ● Kaggle Master ● ZbyHP Global Data Science Amabssador ● <br>Speaker at NVIDIA GTC AI Conference'21 and ODSC West'22 ● <br><br>Graduate Researcher at Northeastern University, Boston </h3>
+<h3 align="center">Data Scientist at LogicAI ● Kaggle Master ● ZbyHP Global Data Science Amabssador <br>Speaker at NVIDIA GTC AI Conference'21 and ODSC West'22 <br><br>Graduate Researcher at Northeastern University, Boston </h3>
 
 <br>
 

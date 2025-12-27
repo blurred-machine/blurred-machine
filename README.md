@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine&label=Profile%20views&color=0e75b6&style=flat" alt="blurred-machine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blurred-machine&rank=SECRET,S,AAA,AA" alt="blurred-machine" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blurred-machine&rank=SECRET,S,AAA,AA" alt="blurred-machine" /></a> </p> -->
 
 <ul>
     <li>🔭 I’m currently working on <strong>Formula 1 Driver' Mind Wandering Assessment with Physiological Signal using Transformers</strong></li>

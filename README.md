@@ -132,10 +132,10 @@ interests = [
 <a href="https://superprofile.bio/blurredai"><img src="https://img.shields.io/badge/Mentorship-6C47FF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
-📬 blurredmachine@gmail.com &nbsp;·&nbsp;
+📬 blurredai.collab@gmail.com &nbsp;
 
 ---
 
 <div align="center">
-<sub>Open to collaborations · Kaggle competitions · Speaking · AI/ML Mentorship</sub>
+<sub>Open to collaborations · Kaggle competitions · Speaking · AI/ML Mentorship · Instagram/Youtube Collaborations</sub> 
 </div>

@@ -129,11 +129,10 @@ interests = [
 <a href="https://blurredai.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 <a href="https://www.instagram.com/blurred_ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCwWqypn1RHq-k5OgTGy37gw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://twitter.com/blurred_machine"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://topmate.io/blurred_machine"><img src="https://img.shields.io/badge/Mentorship-6C47FF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
+<a href="https://superprofile.bio/blurredai"><img src="https://img.shields.io/badge/Mentorship-6C47FF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
-📬 blurredmachine@gmail.com &nbsp;·&nbsp; 🌐 [parasvarshney.com](https://parasvarshney.com)
+📬 blurredmachine@gmail.com &nbsp;·&nbsp;
 
 ---
 
